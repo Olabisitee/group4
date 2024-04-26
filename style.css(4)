@@ -1,0 +1,56 @@
+body {
+  margin: ;
+  padding: ;
+  box-sizing: border-box;
+}
+.destinations h3 {
+  background-color: #05073c;
+  height: 730px;
+}
+.destination-image {
+  width: 300px;
+  height: 400px;
+  border-radius: 12px;
+}
+.side {
+  height: 400px;
+  width: 300px;
+}
+/* Hero Section */
+
+.hero-images {
+  display: grid;
+  grid-template-columns: 410px 240px 520px 300px 300px 300px;
+  grid-gap: 1px;
+}
+.hero-images img {
+  margin: 0%;
+  padding: 0%;
+}
+.hero-images img:first-child {
+  width: 410px;
+  height: 510px;
+  grid-row: span 2;
+}
+
+.hero-images img:nth-child(2) {
+  width: 300px;
+  height: 240px;
+}
+.hero-images img:nth-child(3) {
+  width: 520px;
+  height: 240px;
+}
+.hero-images img:nth-child(4) {
+  width: 300px;
+  height: 240px;
+  margin-top: 10px;
+}
+.hero-images img:nth-child(5) {
+  width: 190px;
+  height: 240px;
+}
+.hero-images img:nth-child(6) {
+  width: 300px;
+  height: 240px;
+}

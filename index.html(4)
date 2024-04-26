@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/assets/work.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <section class="destinations">
+      <h3>Trending Destinations</h3>
+      <div class="destination-image">
+        <img src="\Innkeeper_class\assets\Link (1).png" alt="Bali" />
+        <img src="\Innkeeper_class\assets\Link (2).png" alt="Roma" />
+        <img src="\Innkeeper_class\assets\Link (3).png" alt="Phuket" />
+        <a class="side" href="#">Paris</a>
+      </div>
+    </section>
+
+     <main>
+      <!-- Hero Section -->
+      <section class="hero">
+        <h3>Popular things to do</h3>
+        <div class="hero-images">
+          <img
+            src="\Innkeeper_class\travelLandingPage\Assets\Cruises-.png"
+            alt="Cruises"
+          />
+          <img
+            src="\Innkeeper_class\travelLandingPage\Assets\Beach_Tower-.png"
+            alt="Beach Towers"
+          />
+          <img
+            src="\Innkeeper_class\travelLandingPage\Assets\City_Towers-.png"
+            alt="City Tours"
+          />
+          <img
+            src="\Innkeeper_class\travelLandingPage\Assets\Museum_Tour-.png"
+            alt="Musium tour"
+          />
+          <img
+            src="\Innkeeper_class/travelLandingPage/Assets/food-.png"
+            alt="Food"
+          />
+          <img
+            src="\Innkeeper_class\travelLandingPage\Assets\Hiking-.png"
+            alt="Hiking"
+          />
+        </div>
+      </section>
+
+  </body>
+</html>
